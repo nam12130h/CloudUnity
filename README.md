@@ -1,7 +1,7 @@
--프로젝트 개요- 
-Unity Cloud의 Relay/Lobby 서비스, Docker를 활용하여 제작된 실시간 멀티플레이어 프로젝트입니다
+<프로젝트 개요> 
+- Unity Cloud의 Relay/Lobby 서비스, Docker를 활용하여 제작된 실시간 멀티플레이어 프로젝트입니다
 
-현재 Unity 에디터 상에서는 멀티플레이 기능이 정상 작동하지만, 
+- 현재 Unity 에디터 상에서는 멀티플레이 기능이 정상 작동하지만, 
 WebGL 빌드에서는 Relay 연결 관련 문제(예: RelayServerData 생성 오류, WebSocket 연결 문제 등)로 인해 게임이 정상 실행되지 않는 이슈가 발생하기 때문에 예제 싱글플레이게임을 웹버전으로 빌드해서 배포하였습니다.
 
 
